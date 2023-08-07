@@ -45,3 +45,4 @@ int count = 0;
     Console.WriteLine("+");
     count++; //count = count +1 (ещё один способ записи: count += 1)
 }
+Console.SetCursorPosition(xc, yc);
